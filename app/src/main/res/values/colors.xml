@@ -12,8 +12,12 @@
     <color name="card_background">#C9EEFF</color>
     <color name="text_hint">#537FE7</color>
 
-    <color name="Under_weight">#1C82AD</color>
-    <color name="Healthy">#03C988</color>
-    <color name="Over_weight">#E14D2A</color>
-    <color name="OBESE">#FF1E1E</color>
+    <color name="SevereThinness">#362FD9</color>
+    <color name="ModerateThinness">#3C84AB</color>
+    <color name="MildThinness">#BAD7E9</color>
+    <color name="Normal">#03C988</color>
+    <color name="Overweight">#EB455F</color>
+    <color name="ObeseClass1">#FF0303</color>
+    <color name="ObeseClass2">#FF0303</color>
+    <color name="ObeseClass3">#E21818</color>
 </resources>
