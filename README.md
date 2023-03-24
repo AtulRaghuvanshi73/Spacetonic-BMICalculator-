@@ -13,3 +13,8 @@ The app features a clean and easy-to-use interface, with large input fields and 
 <p>2.Input fields for height,weight and age</p>
 <p>3.Real-time calculation of BMI</p>
 <p>4.Display of BMI result and interpretation</p>
+<h2>Technologies Used</h2>
+<ul>
+    <li>Kotlin programming language</li>
+    <li>Android Studio IDE</li>
+</ul>
